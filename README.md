@@ -1,7 +1,8 @@
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Siddardha%20Bangaru%20&fontSize=42&animation=fadeIn)
+
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hey%20there,%20I'm%20Siddardha!%20👋&fontSize=38&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Java+Full+Stack+Developer;+Engineering+High-Performance+Backend+Applications;AI+%26+RAG+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
