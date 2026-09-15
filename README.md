@@ -1,10 +1,9 @@
-# Hi there, I'm Siddardha 👋
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=38&animation=fadeIn)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Siddardha%20Bangaru%20&fontSize=42&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Java+Full+Stack+Developer;Backend-Focused+Developer;AI+%26+RAG+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=Java+Full+Stack+Developer;+Engineering+High-Performance+Backend+Applications;AI+%26+RAG+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,28 +21,19 @@
 
 ### 🛠️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-00599C?style=for-the-badge&logo=openai&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,py,js,spring,react,postgres,mysql,redis,kafka,aws,docker,androidstudio,git,github,postman&perline=8" alt="Tech Stack Icons" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-111827?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/Spring_AI-111827?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring AI" />
+<img src="https://img.shields.io/badge/RAG_Architecture-111827?style=for-the-badge&logo=openai&logoColor=7DF9FF" alt="RAG" />
+<img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge&logo=google&logoColor=4285F4" alt="LLM APIs" />
+
+</div>
+
 
 ---
 
