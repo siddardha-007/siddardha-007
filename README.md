@@ -10,17 +10,26 @@
 
 ---
 
+
 ### About Me
 
-* Building with **Java, Spring Boot & React**
-* Exploring **AI, RAG & Spring AI**
-* Learning **Kafka, PySpark & Data Engineering**
-* **350+ LeetCode problems** solved
-* I build, break, learn, and build again!
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-350%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
+<img src="https://img.shields.io/badge/Focus-Java_Full_Stack_%26_AI-007ACC?style=for-the-badge&logo=spring&logoColor=white" alt="Focus Badge" />
+
+<br/><br/>
+
+Building scalable applications with **Java, Spring Boot & React**  
+Exploring intelligent systems using **AI, RAG & Spring AI**  
+Scaling data pipelines with **Kafka, PySpark & Data Engineering**  
+*I build, break, learn, and build again!*  
+
+</div>
 
 ---
 
-### Tech Stack & Tools
+### What I Know
 
 
 <div align="center">
@@ -64,15 +73,18 @@
 
 ###  Connect with Me
 
-<div align="left">
+<div align="center">
+  <a href="https://siddardhabvs.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/siddardha-bangaru/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:siddardhabvs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://leetcode.com/u/GV2023003526/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
