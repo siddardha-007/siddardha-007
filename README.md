@@ -15,10 +15,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-350%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
-<img src="https://img.shields.io/badge/Focus-Java_Full_Stack_%26_AI-007ACC?style=for-the-badge&logo=spring&logoColor=white" alt="Focus Badge" />
 
-<br/><br/>
 
 Building scalable applications with **Java, Spring Boot & React**  
 Exploring intelligent systems using **AI, RAG & Spring AI**  
