@@ -52,10 +52,12 @@
 ---
 -->
 
-###  GitHub Stats
+### Languages I Use Most
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddardha-007&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddardha-007&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siddardha-007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=600" width="600" />
+
 </div>
 
 ---
