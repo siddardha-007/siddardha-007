@@ -57,7 +57,7 @@ Scaling data pipelines with **Kafka, PySpark & Data Engineering**
 
 ---
 -->
-
+<!--
 ### Languages I Use Most
 
 <div align="center">
@@ -65,7 +65,7 @@ Scaling data pipelines with **Kafka, PySpark & Data Engineering**
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=siddardha-007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=600" width="600" />
 
 </div>
-
+-->
 ---
 
 ###  Connect with Me
