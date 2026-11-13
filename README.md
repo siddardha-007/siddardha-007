@@ -1,12 +1,8 @@
 
-<div align="center">
+# Hi, I'm Siddardha
 
+**Java Full-Stack Developer | Spring Boot | Microservices | AI, RAG & ML**
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Hey%20there,%20I'm%20Siddardha!%20👋&fontSize=38&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Backend-Focused+Developer;AI+%26+RAG+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
@@ -15,12 +11,10 @@
 
 <div align="center">
 
-
-
 Building scalable applications with **Java, Spring Boot & React**  
-Exploring intelligent systems using **AI, RAG & Spring AI**  
-Scaling data pipelines with **Kafka, PySpark & Data Engineering**  
-*I build, break, learn, and build again!*  
+Building **Microservices** and integrating **AI & RAG**  
+Developing **Machine Learning models** and intelligent systems  
+*Build. Learn. Create.*
 
 </div>
 
@@ -34,10 +28,10 @@ Scaling data pipelines with **Kafka, PySpark & Data Engineering**
 <img src="https://skillicons.dev/icons?i=java,py,js,spring,react,postgres,mysql,redis,kafka,aws,docker,androidstudio,git,github,postman&perline=8" alt="Tech Stack Icons" />
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Apache_Spark-111827?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="Apache Spark" />
+<!-- <img src="https://img.shields.io/badge/Apache_Spark-111827?style=for-the-badge&logo=apachespark&logoColor=E25A1C" alt="Apache Spark" />
 <img src="https://img.shields.io/badge/Spring_AI-111827?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring AI" />
 <img src="https://img.shields.io/badge/RAG_Architecture-111827?style=for-the-badge&logo=openai&logoColor=7DF9FF" alt="RAG" />
-<img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge&logo=google&logoColor=4285F4" alt="LLM APIs" />
+<img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge&logo=google&logoColor=4285F4" alt="LLM APIs" /> -->
 
 </div>
 
@@ -66,8 +60,6 @@ Scaling data pipelines with **Kafka, PySpark & Data Engineering**
 
 </div>
 -->
----
-
 ###  Connect with Me
 
 <div align="center">
