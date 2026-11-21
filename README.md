@@ -1,7 +1,7 @@
 
 # Hi, I'm Siddardha
 
-**Java Full-Stack Developer | Spring Boot | Microservices | AI, RAG & ML**
+**Java Full-Stack Developer | Data Analyst | Spring Boot | Microservices | AI, RAG & ML | **
 
 
 ---
